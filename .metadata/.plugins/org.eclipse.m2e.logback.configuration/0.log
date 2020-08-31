@@ -1,1 +1,9 @@
 2020-08-31 11:35:39,392 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-31 11:46:57,025 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restservices:RestServices100Steps:0.0.1-SNAPSHOT @ /Users/hmadhukar/Documents/RestServices_100Steps/RestServices100Steps/pom.xml.
+2020-08-31 11:46:58,487 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestServices100Steps/src/main/java
+2020-08-31 11:46:58,487 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestServices100Steps/src/main/resources
+2020-08-31 11:46:58,498 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestServices100Steps/src/main/resources
+2020-08-31 11:46:58,511 [Worker-10: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestServices100Steps/src/test/java
+2020-08-31 11:46:59,670 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-08-31 11:46:59,677 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-31 11:47:00,269 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.restservices:RestServices100Steps:0.0.1-SNAPSHOT @ /Users/hmadhukar/Documents/RestServices_100Steps/RestServices100Steps/pom.xml.
